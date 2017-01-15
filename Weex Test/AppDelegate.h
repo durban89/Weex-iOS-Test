@@ -7,6 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <WeexSDK/WXSDKEngine.h>
+#import <WeexSDK/WXLog.h>
+#import <WeexSDK/WXDebugTool.h>
+#import <WeexSDK/WXAppConfiguration.h>
+#import <TBWXDevTool/WXDevTool.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
